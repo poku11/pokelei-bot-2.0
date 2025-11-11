@@ -1,0 +1,4 @@
+streamlit
+httpx[http2]
+lxml
+pandas
